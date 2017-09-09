@@ -1,0 +1,2 @@
+rails: bundle exec bin/rails server Puma -p 3000
+webpack: bin/webpack-dev-server --host localhost
